@@ -1,0 +1,10 @@
+# Node.js dependencies
+node_modules/
+server/node_modules/
+ai-ui-generator/node_modules/
+
+# Environment files
+*.env
+
+# System files
+.DS_Store

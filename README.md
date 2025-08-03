@@ -42,12 +42,10 @@ Generate beautiful UI/UX component code using natural language prompts with the 
 ## 📷 Screenshots
 
 ### 🖊️ Prompt Input UI
-![Prompt UI](<img width="1846" height="859" alt="Screenshot 2025-08-02 210851" src="https://github.com/user-attachments/assets/b279e533-d9fc-4ce9-98b6-57cb53989937" />
-)
+![Prompt UI]()
 
 ### ⚙️ Code Output Display
-![Output UI](<img width="580" height="423" alt="image" src="https://github.com/user-attachments/assets/41470453-707e-49fd-af15-e5b12108f9f8" />
-)
+![Output UI]()
 
 ---
 

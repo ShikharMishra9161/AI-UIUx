@@ -6,7 +6,7 @@ Generate beautiful UI/UX component code using natural language prompts with the 
 
 ## 🔗 Live Links
 
-- 🚀 [Live Demo](https://your-vercel-url.vercel.app)
+- 🚀 [Live Demo](https://ai-uiux-olive.vercel.app/)
 - 🔗 [Backend API](https://ai-uiux-backend.onrender.com)
 - 🗂️ [Frontend GitHub](https://github.com/ShikharMishra9161/AI-uiUX)
 - 🗂️ [Backend GitHub](https://github.com/ShikharMishra9161/ai-uiux-backend)
@@ -49,7 +49,7 @@ Generate beautiful UI/UX component code using natural language prompts with the 
 > *(https://github.com/ShikharMishra9161/AI-uiUx/blob/main/ai-ui-generator/public/Screenshot%202025-08-02%20210851.png)*
 
 ### ⚙️ Code Output Display
-> *()*
+> *(https://github.com/ShikharMishra9161/AI-uiUx/blob/main/ai-ui-generator/public/image.png)*
 
 ---
 

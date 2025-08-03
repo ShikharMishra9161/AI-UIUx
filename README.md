@@ -67,3 +67,10 @@ Generate beautiful UI/UX component code using natural language prompts with the 
 git clone https://github.com/ShikharMishra9161/AI-uiUX
 git clone https://github.com/ShikharMishra9161/ai-uiux-backend
 
+### 2. Install Dependencies
+cd ai-uiux-backend
+npm install
+
+cd ../AI-uiUX
+npm install
+

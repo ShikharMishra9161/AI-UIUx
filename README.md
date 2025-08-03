@@ -2,7 +2,7 @@
 
 Generate beautiful UI/UX component code using natural language prompts with the power of AI.
 
-🚀 [Live Demo](https://your-vercel-url.vercel.app)  
+🚀 [Live Demo](https://ai-uiux-olive.vercel.app/)  
 🔗 [Backend API](https://ai-uiux-backend.onrender.com)  
 🗂️ [Frontend GitHub](https://github.com/ShikharMishra9161/AI-uiUX)  
 🗂️ [Backend GitHub](https://github.com/ShikharMishra9161/ai-uiux-backend)

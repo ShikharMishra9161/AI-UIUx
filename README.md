@@ -59,33 +59,6 @@ Generate beautiful UI/UX component code using natural language prompts with the 
 
 ---
 
-## 🧪 Local Setup (Optional)
-
-### 1. Clone frontend and backend
-
-```bash
-git clone https://github.com/ShikharMishra9161/AI-uiUX
-git clone https://github.com/ShikharMishra9161/ai-uiux-backend
-
-### 2. Install Dependencies
-cd ai-uiux-backend
-npm install
-
-cd ../AI-uiUX
-npm install
-
-### 3. Add your .env to backend
-GEMINI_API_KEY=your_key_here
-PORT=5000
-
-### 4. Run the servers
-# Start backend
-cd ai-uiux-backend
-node index.js
-
-# Start frontend
-cd ../AI-uiUX
-npm start
 
 #💡 Future Improvements
 User authentication (Login/Signup with JWT)

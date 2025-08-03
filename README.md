@@ -74,3 +74,36 @@ npm install
 cd ../AI-uiUX
 npm install
 
+### 3. Add your .env to backend
+GEMINI_API_KEY=your_key_here
+PORT=5000
+
+### 4. Run the servers
+# Start backend
+cd ai-uiux-backend
+node index.js
+
+# Start frontend
+cd ../AI-uiUX
+npm start
+
+#💡 Future Improvements
+User authentication (Login/Signup with JWT)
+
+History of generated prompts
+
+Dark/light mode toggle
+
+Save/download code as .jsx files
+
+Mobile responsive improvements
+
+#📄 License
+MIT
+
+Made with ❤️ by Shikhar Mishra
+
+
+
+
+

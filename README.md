@@ -2,10 +2,14 @@
 
 Generate beautiful UI/UX component code using natural language prompts with the power of AI.
 
-🚀 [Live Demo](https://ai-uiux-olive.vercel.app/)  
-🔗 [Backend API](https://ai-uiux-backend.onrender.com)  
-🗂️ [Frontend GitHub](https://github.com/ShikharMishra9161/AI-uiUx/tree/main/ai-ui-generator)  
-🗂️ [Backend GitHub](https://github.com/ShikharMishra9161/AI-uiUx/tree/main/server)
+---
+
+## 🔗 Live Links
+
+- 🚀 [Live Demo](https://ai-uiux-olive.vercel.app/)
+- 🔗 [Backend API](https://ai-uiux-backend.onrender.com)
+- 🗂️ [Frontend GitHub](https://github.com/ShikharMishra9161/AI-uiUX)
+- 🗂️ [Backend GitHub](https://github.com/ShikharMishra9161/ai-uiux-backend)
 
 ---
 
@@ -22,19 +26,19 @@ Generate beautiful UI/UX component code using natural language prompts with the 
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-- React  
-- Axios  
-- Tailwind CSS (optional/custom styles)
+### Frontend:
+- React
+- Axios
+- Tailwind CSS (custom styles optional)
 
-**Backend:**  
-- Node.js  
-- Express.js  
-- Google Gemini API  
+### Backend:
+- Node.js
+- Express.js
+- Google Gemini API
 - CORS, dotenv, etc.
 
-**Deployment:**  
-- Vercel (Frontend)  
+### Deployment:
+- Vercel (Frontend)
 - Render (Backend)
 
 ---
@@ -42,11 +46,10 @@ Generate beautiful UI/UX component code using natural language prompts with the 
 ## 📷 Screenshots
 
 ### 🖊️ Prompt Input UI
-![Prompt UI](https://github.com/ShikharMishra9161/AI-uiUx/blob/main/ai-ui-generator/public/Screenshot%202025-08-02%20210851.png)
+> *(https://github.com/ShikharMishra9161/AI-uiUx/blob/main/ai-ui-generator/public/Screenshot%202025-08-02%20210851.png)*
 
 ### ⚙️ Code Output Display
-![Output UI](<img width="578" height="423" alt="image" src="https://github.com/user-attachments/assets/55cbc59d-d8ff-4fce-aa52-cd4db9e1493e" />
-)
+> *(https://github.com/ShikharMishra9161/AI-uiUx/blob/main/ai-ui-generator/public/image.png)*
 
 ---
 
@@ -60,11 +63,22 @@ Generate beautiful UI/UX component code using natural language prompts with the 
 
 ---
 
-## 🧪 Local Setup (Optional)
+## 💡 Future Improvements
 
-### 1. Clone frontend and backend
+- 🧾 User authentication (Login/Signup with JWT)
+- 🕓 History of generated prompts
+- 🌓 Dark/light mode toggle
+- 💾 Save/download code as `.jsx` files
+- 📱 Mobile responsive improvements
 
-```bash
-git clone https://github.com/ShikharMishra9161/AI-uiUX
-git clone https://github.com/ShikharMishra9161/ai-uiux-backend
+---
+
+## 📄 License
+
+MIT
+
+---
+
+> Made with ❤️ by [Shikhar Mishra](https://www.linkedin.com/in/shikhar-mishra-480171294/)
+
 

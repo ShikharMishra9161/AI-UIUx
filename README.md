@@ -1,4 +1,4 @@
-# 🧠 AI UI/UX Generator
+# 🪄 AI UI/UX Generator
 
 Generate beautiful UI/UX component code using natural language prompts with the power of AI.
 

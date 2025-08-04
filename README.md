@@ -46,10 +46,10 @@ Generate beautiful UI/UX component code using natural language prompts with the 
 ## 📷 Screenshots
 
 ### 🖊️ Prompt Input UI
-> *(https://github.com/ShikharMishra9161/AI-uiUx/blob/main/ai-ui-generator/public/Screenshot%202025-08-02%20210851.png)*
+> 
 
 ### ⚙️ Code Output Display
-> *(https://github.com/ShikharMishra9161/AI-uiUx/blob/main/ai-ui-generator/public/image.png)*
+> <img width="1205" height="852" alt="Screenshot 2025-08-04 145004" src="https://github.com/user-attachments/assets/d86a8a85-1dbe-4fbe-b287-a1067affe1d1" />
 
 ---
 

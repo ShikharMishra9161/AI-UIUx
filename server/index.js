@@ -14,7 +14,7 @@ app.post("/api/generate", async (req, res) => {
     const response = await axios.post(
       "https://openrouter.ai/api/v1/chat/completions",
       {
-        model: "mistralai/mixtral-8x7b-instruct",
+        model: "google/gemini-pro",
         messages: [
           { role: "user", content: prompt }
         ]

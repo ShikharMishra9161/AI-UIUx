@@ -38,7 +38,7 @@ app.post("/api/generate", async (req, res) => {
 const PORT = process.env.PORT || 5000;
 
 app.get("/", (req, res) => {
-  res.send("✅ AI UI/UX Generator Backend is live. Use POST /api/generate to interact.");
+  res.send("AI UI/UX Generator Backend is live. Use POST /api/generate to interact.");
 });
 
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));

@@ -25,7 +25,7 @@ function App() {
       }, 100); // ensures scroll after render
     } catch (error) {
       console.error("Frontend Error:", error.message);
-      setGeneratedCode("// ❌ Error generating code. Please try again.");
+      setGeneratedCode("// Error generating code. Please try again.");
     } finally {
       setLoading(false);
     }
